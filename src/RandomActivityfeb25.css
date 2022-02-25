@@ -1,0 +1,24 @@
+.Main-div{
+    background: linear-gradient(60deg,rgb(207, 154, 93),rgb(240, 145, 145));
+    padding:10px;
+    text-align: center;
+}
+.inside-div{
+    width:60%;
+    background-color: cyan;
+    margin: auto;
+}
+.sideHeading{
+    display:inline-block;
+    background: rgb(212, 169, 178);
+    text-align: left;
+    width:20%;
+    padding:5px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+.Content{
+    display:inline-block;
+    width:55%;
+    padding:5px;
+}

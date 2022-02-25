@@ -1,0 +1,40 @@
+.Main-div{
+    background: linear-gradient(60deg,rgb(207, 154, 93),rgb(240, 145, 145));
+    padding:10px;
+    text-align: center;
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:8px;
+    margin-bottom:5px;
+    border-radius: 10px;
+
+}
+.Card{
+    text-align: center;
+}
+.inside-div{
+    width:65%;
+    background-color: cyan;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding:5px;
+}
+.sideHeading{
+    display:inline-block;
+    background: rgb(212, 169, 178);
+    text-align: left;
+    width:20%;
+    padding:5px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+.Content{
+    display:inline-block;
+    width:55%;
+    padding:5px;
+}
+.Profile_Picture{
+    width:30%
+}
